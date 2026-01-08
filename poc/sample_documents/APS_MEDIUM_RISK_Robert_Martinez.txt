@@ -1,0 +1,131 @@
+================================================================================
+                    ATTENDING PHYSICIAN STATEMENT (APS)
+                    Life Insurance Medical Evaluation
+================================================================================
+
+REPORT DATE: January 7, 2026
+DOCUMENT ID: APS-POC-002
+
+--------------------------------------------------------------------------------
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name:     Robert Martinez
+Date of Birth:    07/22/1970
+Gender:           Male
+Medical Record #: MRN-778834
+
+--------------------------------------------------------------------------------
+EXAMINING PHYSICIAN
+--------------------------------------------------------------------------------
+Physician Name:   Dr. Patricia Williams, MD
+Practice:         Metro Internal Medicine & Diabetes Center
+NPI:              9876543210
+
+--------------------------------------------------------------------------------
+CLINICAL NARRATIVE
+--------------------------------------------------------------------------------
+Patient presents for routine follow-up of Type 2 Diabetes Mellitus and 
+Hypertension. Mr. Martinez is a 55-year-old male with a 6-year history of 
+diabetes diagnosed in 2020. He reports good compliance with medications 
+and dietary modifications. Blood sugars have been relatively well-controlled 
+with occasional elevations after large meals.
+
+Hypertension has been managed on dual therapy for the past 3 years. 
+Blood pressure readings at home have been averaging 135/85 mmHg.
+
+Patient quit smoking 4 years ago after 20-pack-year history. He reports
+occasional alcohol use, approximately 2-3 beers on weekends.
+
+--------------------------------------------------------------------------------
+ACTIVE MEDICAL CONDITIONS
+--------------------------------------------------------------------------------
+  - Type 2 Diabetes Mellitus (diagnosed 2020) - managed
+  - Essential Hypertension (diagnosed 2019) - on dual therapy
+  - Hyperlipidemia (diagnosed 2020) - on statin
+  - Obesity (BMI 32)
+  - Former tobacco use (quit 2022)
+
+--------------------------------------------------------------------------------
+CURRENT MEDICATIONS
+--------------------------------------------------------------------------------
+  - Metformin 1000mg twice daily
+  - Lisinopril 20mg daily
+  - Amlodipine 5mg daily
+  - Atorvastatin 20mg at bedtime
+  - Aspirin 81mg daily
+
+--------------------------------------------------------------------------------
+SURGICAL HISTORY
+--------------------------------------------------------------------------------
+  - Cholecystectomy (2018)
+  - Knee arthroscopy (2015)
+
+--------------------------------------------------------------------------------
+SOCIAL HISTORY
+--------------------------------------------------------------------------------
+  Tobacco Use:    Former smoker (quit 2022, 20 pack-year history)
+  Alcohol Use:    Moderate (2-3 beers on weekends)
+  Occupation:     Construction Manager
+  Exercise:       Light activity, walking 2-3x/week
+
+--------------------------------------------------------------------------------
+RECENT LABORATORY VALUES (December 2025)
+--------------------------------------------------------------------------------
+  - HbA1c: 7.4% (target <7.0%)
+  - Fasting Glucose: 142 mg/dL
+  - Total Cholesterol: 195 mg/dL
+  - LDL: 98 mg/dL (at goal on statin)
+  - HDL: 42 mg/dL (low)
+  - Triglycerides: 185 mg/dL
+  - GFR: 72 mL/min (mildly reduced)
+  - Creatinine: 1.2 mg/dL
+  - Urine Microalbumin: 45 mg/L (mildly elevated)
+
+--------------------------------------------------------------------------------
+PHYSICAL EXAMINATION
+--------------------------------------------------------------------------------
+  Vital Signs:
+    - Blood Pressure: 138/86 mmHg
+    - Heart Rate: 78 bpm
+    - Height: 70 inches
+    - Weight: 225 lbs
+    - BMI: 32.3
+
+  General: Overweight male in no acute distress
+  Cardiovascular: Regular rate and rhythm, no murmurs, no edema
+  Respiratory: Clear bilaterally
+  Extremities: No peripheral neuropathy on monofilament testing
+  Feet: Intact skin, no ulcers, pulses palpable
+
+--------------------------------------------------------------------------------
+ASSESSMENT AND PLAN
+--------------------------------------------------------------------------------
+55-year-old male with:
+1. Type 2 Diabetes - suboptimally controlled (HbA1c 7.4%)
+2. Hypertension - on dual therapy, slightly above goal
+3. Early diabetic nephropathy (microalbuminuria)
+4. Former smoker with 20 pack-year history
+
+Risk factors present include diabetes requiring medication, hypertension 
+on multiple agents, and former heavy tobacco use. However, conditions
+are being actively managed with reasonable control.
+
+MEDIUM RISK for underwriting purposes.
+
+Plan:
+- Consider adding GLP-1 agonist for better glycemic control and weight loss
+- Recheck HbA1c in 3 months
+- Continue ACE inhibitor for renal protection
+- Encourage weight loss and increased physical activity
+
+--------------------------------------------------------------------------------
+PHYSICIAN ATTESTATION
+--------------------------------------------------------------------------------
+I certify this information is accurate and complete.
+
+Dr. Patricia Williams, MD
+Date: January 7, 2026
+
+================================================================================
+                         END OF ATTENDING PHYSICIAN STATEMENT
+================================================================================

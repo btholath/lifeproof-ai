@@ -1,0 +1,168 @@
+================================================================================
+                    ATTENDING PHYSICIAN STATEMENT (APS)
+                    Life Insurance Medical Evaluation
+================================================================================
+
+REPORT DATE: January 7, 2026
+DOCUMENT ID: APS-POC-003
+
+--------------------------------------------------------------------------------
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name:     James Wilson
+Date of Birth:    11/08/1962
+Gender:           Male
+Medical Record #: MRN-334456
+
+--------------------------------------------------------------------------------
+EXAMINING PHYSICIAN
+--------------------------------------------------------------------------------
+Physician Name:   Dr. David Thompson, MD, FACC
+Practice:         Advanced Cardiology Associates
+NPI:              5432167890
+
+--------------------------------------------------------------------------------
+CLINICAL NARRATIVE
+--------------------------------------------------------------------------------
+Patient presents for cardiovascular follow-up and life insurance evaluation.
+Mr. Wilson is a 63-year-old male with significant cardiac history including
+acute ST-elevation myocardial infarction (STEMI) in March 2023 involving
+the left anterior descending artery (LAD). He underwent emergent percutaneous
+coronary intervention (PCI) with drug-eluting stent placement.
+
+Post-MI course complicated by reduced left ventricular function. Most recent
+echocardiogram (October 2025) demonstrates LVEF of 40% (reduced from 55% pre-MI).
+Patient reports New York Heart Association Class II symptoms with dyspnea on
+moderate exertion such as climbing two flights of stairs.
+
+Patient has history of poorly controlled Type 2 Diabetes with recent HbA1c of
+9.2%. He admits to inconsistent medication compliance, particularly with his
+statin due to reported muscle aches.
+
+Continued cigarette smoking despite counseling - currently 1 pack per day.
+Reports high stress at work and difficulty following dietary recommendations.
+
+--------------------------------------------------------------------------------
+ACTIVE MEDICAL CONDITIONS
+--------------------------------------------------------------------------------
+  - Coronary Artery Disease s/p STEMI (March 2023) - LAD territory
+  - Ischemic Cardiomyopathy with reduced LVEF (40%)
+  - Type 2 Diabetes Mellitus - poorly controlled
+  - Essential Hypertension
+  - Hyperlipidemia - suboptimally treated
+  - Current tobacco use (1 PPD x 35 years)
+  - Obesity (BMI 34)
+
+--------------------------------------------------------------------------------
+CURRENT MEDICATIONS
+--------------------------------------------------------------------------------
+  - Aspirin 81mg daily
+  - Clopidogrel 75mg daily (dual antiplatelet therapy)
+  - Metoprolol succinate 100mg daily
+  - Lisinopril 40mg daily
+  - Atorvastatin 80mg daily (reports non-compliance)
+  - Metformin 1000mg twice daily
+  - Glipizide 10mg twice daily
+  - Empagliflozin 25mg daily
+  - Furosemide 20mg daily
+
+--------------------------------------------------------------------------------
+SURGICAL HISTORY
+--------------------------------------------------------------------------------
+  - PCI with DES to LAD (March 2023)
+  - Cardiac catheterization (March 2023) - 90% LAD stenosis
+  - Appendectomy (1995)
+
+--------------------------------------------------------------------------------
+SOCIAL HISTORY
+--------------------------------------------------------------------------------
+  Tobacco Use:    Current smoker (1 PPD x 35 years = 35 pack-years)
+  Alcohol Use:    Heavy (4-5 drinks daily, including weekdays)
+  Occupation:     Accountant (sedentary, high stress)
+  Exercise:       Minimal due to dyspnea
+
+--------------------------------------------------------------------------------
+RECENT LABORATORY VALUES (November 2025)
+--------------------------------------------------------------------------------
+  - HbA1c: 9.2% (poorly controlled, target <7%)
+  - Fasting Glucose: 198 mg/dL (elevated)
+  - Total Cholesterol: 245 mg/dL (elevated)
+  - LDL: 142 mg/dL (above goal of <70 for CAD)
+  - HDL: 34 mg/dL (low)
+  - Triglycerides: 345 mg/dL (elevated)
+  - BNP: 385 pg/mL (elevated, indicating cardiac stress)
+  - GFR: 58 mL/min (Stage 3a CKD)
+  - Creatinine: 1.4 mg/dL
+
+--------------------------------------------------------------------------------
+CARDIAC TESTING
+--------------------------------------------------------------------------------
+  Echocardiogram (October 2025):
+    - LVEF: 40% (reduced)
+    - Anterior wall hypokinesis
+    - Mild mitral regurgitation
+    - Left atrial enlargement
+    
+  Stress Test (September 2025):
+    - Terminated early due to dyspnea at 5 METs
+    - No ischemic ECG changes
+    - Unable to achieve target heart rate
+
+--------------------------------------------------------------------------------
+PHYSICAL EXAMINATION
+--------------------------------------------------------------------------------
+  Vital Signs:
+    - Blood Pressure: 152/94 mmHg (uncontrolled)
+    - Heart Rate: 72 bpm
+    - Height: 71 inches
+    - Weight: 248 lbs
+    - BMI: 34.6
+
+  General: Obese male, appears older than stated age
+  Cardiovascular: Irregular rhythm (occasional PVCs), S4 gallop present
+  Respiratory: Bibasilar crackles
+  Extremities: 1+ bilateral lower extremity edema
+  Skin: Tobacco staining on fingers
+
+--------------------------------------------------------------------------------
+ASSESSMENT AND PLAN
+--------------------------------------------------------------------------------
+63-year-old male with SIGNIFICANT cardiovascular risk profile:
+
+HIGH RISK FACTORS:
+1. Recent MI (< 3 years) with reduced LVEF 40% (HIGH RISK per underwriting criteria)
+2. Current heavy smoker (35 pack-years) - REFUSES cessation
+3. Poorly controlled Type 2 Diabetes (HbA1c 9.2%)
+4. Medication non-compliance (statin)
+5. Heavy alcohol use
+6. Stage 3a CKD (GFR 58)
+7. Uncontrolled hypertension despite treatment
+8. Low functional capacity (5 METs on stress test)
+
+This patient presents MULTIPLE HIGH-RISK criteria for life insurance underwriting.
+The combination of recent MI with reduced EF, ongoing tobacco use, and poor
+metabolic control significantly increases mortality risk.
+
+Prognosis: Guarded. Five-year cardiovascular event risk is substantially elevated.
+
+RECOMMENDATION: HIGH RISK classification. Consider decline or significant rating.
+
+Plan:
+- Strongly counsel smoking cessation (patient declined)
+- Optimize heart failure medications
+- Consider ICD evaluation given LVEF 40%
+- Refer to cardiac rehabilitation (patient previously declined)
+- Endocrinology referral for diabetes management
+- Recheck labs in 6 weeks
+
+--------------------------------------------------------------------------------
+PHYSICIAN ATTESTATION
+--------------------------------------------------------------------------------
+I certify this information is accurate and complete.
+
+Dr. David Thompson, MD, FACC
+Date: January 7, 2026
+
+================================================================================
+                         END OF ATTENDING PHYSICIAN STATEMENT
+================================================================================

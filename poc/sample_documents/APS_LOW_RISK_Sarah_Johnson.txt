@@ -1,0 +1,108 @@
+================================================================================
+                    ATTENDING PHYSICIAN STATEMENT (APS)
+                    Life Insurance Medical Evaluation
+================================================================================
+
+REPORT DATE: January 7, 2026
+DOCUMENT ID: APS-POC-001
+
+--------------------------------------------------------------------------------
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name:     Sarah Johnson
+Date of Birth:    03/15/1985
+Gender:           Female
+Medical Record #: MRN-445521
+
+--------------------------------------------------------------------------------
+EXAMINING PHYSICIAN
+--------------------------------------------------------------------------------
+Physician Name:   Dr. Michael Chen, MD
+Practice:         Riverside Family Medicine
+NPI:              1234567890
+
+--------------------------------------------------------------------------------
+CLINICAL NARRATIVE
+--------------------------------------------------------------------------------
+Patient presents for annual wellness examination and life insurance evaluation.
+Ms. Johnson is a 40-year-old female in excellent overall health. She reports 
+feeling well with no new complaints. She maintains an active lifestyle, 
+exercising 4-5 times per week including running and yoga. Diet is well-balanced 
+with emphasis on whole foods.
+
+No significant past medical history. No hospitalizations or surgeries.
+Family history notable for maternal grandmother with breast cancer at age 72.
+
+--------------------------------------------------------------------------------
+ACTIVE MEDICAL CONDITIONS
+--------------------------------------------------------------------------------
+  - Seasonal allergies (mild, well-controlled)
+  - Vitamin D insufficiency (supplementing)
+
+--------------------------------------------------------------------------------
+CURRENT MEDICATIONS
+--------------------------------------------------------------------------------
+  - Cetirizine 10mg daily PRN for allergies
+  - Vitamin D3 2000 IU daily
+  - Daily multivitamin
+
+--------------------------------------------------------------------------------
+SURGICAL HISTORY
+--------------------------------------------------------------------------------
+  - None
+
+--------------------------------------------------------------------------------
+SOCIAL HISTORY
+--------------------------------------------------------------------------------
+  Tobacco Use:    Never smoker
+  Alcohol Use:    Occasional social drinker (1-2 glasses wine per week)
+  Occupation:     Software Engineer
+  Exercise:       Regular exercise 4-5x/week (running, yoga)
+
+--------------------------------------------------------------------------------
+RECENT LABORATORY VALUES (December 2025)
+--------------------------------------------------------------------------------
+  - HbA1c: 5.2% (normal)
+  - Fasting Glucose: 88 mg/dL (normal)
+  - Total Cholesterol: 185 mg/dL
+  - LDL: 102 mg/dL
+  - HDL: 68 mg/dL
+  - Triglycerides: 75 mg/dL
+  - GFR: 105 mL/min (normal)
+  - TSH: 2.1 mIU/L (normal)
+
+--------------------------------------------------------------------------------
+PHYSICAL EXAMINATION
+--------------------------------------------------------------------------------
+  Vital Signs:
+    - Blood Pressure: 118/72 mmHg
+    - Heart Rate: 64 bpm
+    - Height: 65 inches
+    - Weight: 138 lbs
+    - BMI: 23.0
+
+  General: Well-appearing female in no acute distress
+  Cardiovascular: Regular rate and rhythm, no murmurs
+  Respiratory: Clear to auscultation bilaterally
+  Abdomen: Soft, non-tender
+
+--------------------------------------------------------------------------------
+ASSESSMENT AND PLAN
+--------------------------------------------------------------------------------
+Healthy 40-year-old female with no significant medical conditions.
+Excellent cardiovascular risk profile. Standard risk candidate.
+
+Recommendations: Continue current healthy lifestyle. Age-appropriate
+cancer screening discussed.
+
+--------------------------------------------------------------------------------
+PHYSICIAN ATTESTATION
+--------------------------------------------------------------------------------
+I certify this information is accurate and complete.
+
+Dr. Michael Chen, MD
+Date: January 7, 2026
+
+================================================================================
+                         END OF ATTENDING PHYSICIAN STATEMENT
+================================================================================

@@ -1,0 +1,17 @@
+2. The Deployment Strategy
+Process: sam deploy --guided While the core infra is CDK, often platform teams use SAM (Serverless Application Model) for local testing or specialized Lambda deployments. For your interview, highlight that you understand both.
+
+The samconfig.toml (Generated after first guided deploy):
+
+Ini, TOML
+
+version = 0.1
+[default.deploy.parameters]
+stack_name = "lifeproof-ai-worker"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket"
+region = "us-east-1"
+confirm_changeset = true
+capabilities = "CAPABILITY_IAM"
+parameter_overrides = "ModelId=\"anthropic.claude-3-5-sonnet-20240620-v1:0\""
+Interview Tip: If asked why use SAM over CDK, say: "SAM is excellent for local Lambda debugging and rapid API prototyping, while CDK is my choice for complex, multi-service Object-Oriented infrastructure."
+

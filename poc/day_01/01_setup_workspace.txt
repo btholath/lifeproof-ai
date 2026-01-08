@@ -1,0 +1,110 @@
+Project Structure
+Run these commands to initialize your workspace:
+
+mkdir lifeproof-ai && cd lifeproof-ai
+cdk init app --language python
+mkdir -p lambda/summarizer
+
+=======================================================
+console output
+=======================================================
+(.venv) bijut@b:~/aws_apps/lifeproof-ai$ cdk init app --language python
+Applying project template app for python
+
+# Welcome to your CDK Python project!
+
+This is a blank project for CDK development with Python.
+
+The `cdk.json` file tells the CDK Toolkit how to execute your app.
+
+This project is set up like a standard Python project.  The initialization
+process also creates a virtualenv within this project, stored under the `.venv`
+directory.  To create the virtualenv it assumes that there is a `python3`
+(or `python` for Windows) executable in your path with access to the `venv`
+package. If for any reason the automatic creation of the virtualenv fails,
+you can create the virtualenv manually.
+
+To manually create a virtualenv on MacOS and Linux:
+
+```
+$ python3 -m venv .venv
+```
+
+After the init process completes and the virtualenv is created, you can use the following
+step to activate your virtualenv.
+
+```
+$ source .venv/bin/activate
+```
+
+If you are a Windows platform, you would activate the virtualenv like this:
+
+```
+% .venv\Scripts\activate.bat
+```
+
+Once the virtualenv is activated, you can install the required dependencies.
+
+```
+$ pip install -r requirements.txt
+```
+
+At this point you can now synthesize the CloudFormation template for this code.
+
+```
+$ cdk synth
+```
+
+To add additional dependencies, for example other CDK libraries, just add
+them to your `setup.py` file and rerun the `pip install -r requirements.txt`
+command.
+
+## Useful commands
+
+ * `cdk ls`          list all stacks in the app
+ * `cdk synth`       emits the synthesized CloudFormation template
+ * `cdk deploy`      deploy this stack to your default AWS account/region
+ * `cdk diff`        compare deployed stack with current state
+ * `cdk docs`        open CDK documentation
+
+Enjoy!
+
+Initializing a new git repository...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint:   git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint:   git branch -m <name>
+Executing Creating virtualenv...
+Executing Installing dependencies...
+✅ All done!
+
+NOTICES         (What's this? https://github.com/aws/aws-cdk/wiki/CLI-Notices)
+
+34892   CDK CLI collects telemetry data on command usage starting at version 2.1100.0 (unless opted out)
+
+        Overview: We do not collect customer content and we anonymize the
+                  telemetry we do collect. See the attached issue for more
+                  information on what data is collected, why, and how to
+                  opt-out. Telemetry will NOT be collected for any CDK CLI
+                  version prior to version 2.1100.0 - regardless of
+                  opt-in/out. You can also view the telemetry we collect by
+                  logging it to a local file, by adding
+                  `--telemetry-file=my/local/file` to any `cdk` command.
+
+        Affected versions: cli: ^2.1100.0
+
+        More information at: https://github.com/aws/aws-cdk/issues/34892
+
+
+If you don’t want to see a notice anymore, use "cdk acknowledge <id>". For example, "cdk acknowledge 34892".
+(.venv) bijut@b:~/aws_apps/lifeproof-ai$
+
+(.venv) bijut@b:~/aws_apps/lifeproof-ai$ cdk acknowledge 34892
+=============================================================
+

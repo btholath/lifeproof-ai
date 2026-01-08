@@ -1,0 +1,8 @@
+version = 0.1
+[default.deploy.parameters]
+stack_name = "lifeproof-ai-worker"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket"
+region = "us-east-1"
+confirm_changeset = true
+capabilities = "CAPABILITY_IAM"
+parameter_overrides = "ModelId=\"anthropic.claude-3-5-sonnet-20240620-v1:0\""

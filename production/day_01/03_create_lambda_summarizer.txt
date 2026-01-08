@@ -1,0 +1,2 @@
+2. The AI Logic (lambda/summarizer/index.py)
+This function handles the extraction, model routing, and storage.

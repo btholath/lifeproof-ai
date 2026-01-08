@@ -1,0 +1,7 @@
+rm -rf production/.git
+git rm --cached production
+git add .
+git commit -m "Initial commit of lifeproof-ai"
+git branch -M main
+git remote add origin git@github.com:btholath/lifeproof-ai.git
+git push -u origin main
